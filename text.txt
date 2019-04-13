@@ -3,9 +3,3 @@ Software engineering
 22 years old
 
 
-dog
-cat 
-lion 
-frog 
-cow
-
